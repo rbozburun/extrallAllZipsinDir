@@ -4,6 +4,6 @@ Extract all .zip files in a given directory.
 
 ## Usage:
 ---
-``chmod 755 extractZips_in_folder.sh``
+``chmod 755 extractAllZips.sh.sh``
 
-``./extractZips_in_folder.sh -d directory``
+``./extractAllZips.sh.sh -d directory``
